@@ -1,0 +1,70 @@
+As tags em HTML5 são usadas para definir a estrutura e o conteúdo de uma página web. Abaixo está um resumo rápido de algumas das principais tags em HTML5:
+
+Estrutura Básica
+
+<!DOCTYPE html>: Defina o documento como HTML5.
+<html>: Envolvente principal.
+<head>: Contém metadados e links para scripts e estilos.
+<body>: Contém o conteúdo visível da página.
+Cabeçalhos e Seções
+
+<header>: Cabeçalho do documento ou seção.
+<footer>: Rodapé do documento ou seção.
+<nav>: Seção de navegação.
+<article>: Conteúdo independente.
+<section>: Seção genérica do conteúdo.
+<aside>: Conteúdo à parte do conteúdo principal.
+Grupo de Conteúdo
+
+<figure>: Conteúdo referenciado, como imagens ou gráficos.
+<figcaption>: Legenda para o <figure>.
+<main>: Conteúdo principal de uma página.
+Texto e Links
+
+<a>: Link.
+<p>: Parágrafo.
+<h1>, <h2>, ... <h6>: Cabeçalhos de níveis diferentes.
+Formulários
+
+<form>: Defina um formulário.
+<input>: Campo de entrada.
+<textarea>: Área de texto.
+<button>: Botão.
+mídia
+
+<audio>: Reprodução de áudio.
+<video>: Reprodução de vídeo.
+<source>: Fontes de mídia para as tags acima.
+<img>: Imagem.
+Listas
+
+<ul>: Lista não ordenada.
+<ol>: Lista ordenada.
+<li>: Item da lista.
+Tabelas
+
+<table>: Tabela.
+<thead>: Cabeçalho da tabela.
+<tbody>: Corpo da tabela.
+<tfoot>: Rodapé da tabela.
+<tr>: Linha da tabela.
+<td>: Célula de dados.
+<th>: Célula de cabeçalho.
+Outros
+
+<div>: Divisão ou seção de conteúdo.
+<span>: contêiner embutido.
+Estas são apenas algumas tags em HTML5. A concepção completa tem muitas outras tags e atributos para atender a diversas necessidades.
+HTML5 altera várias novas tags semânticas que ajudam a estruturar e descrever melhor o conteúdo da página. Algumas das principais tags incluem:
+
+<header>: Defina o cabeçalho da página ou de uma seção.
+<nav>: Utilizado para agrupar links de navegação.
+<article>: Envolve um conteúdo independente e autossuficiente, como um post de blog.
+<section>: Divida o conteúdo em temas temáticos.
+<aside>: Contém informações que são tangenciais ao conteúdo principal.
+<footer>: Defina o rodapé da página ou de uma seção.
+<main>: Representa o conteúdo principal da página.
+<figure>: Usado para incorporar mídia, como imagens ou gráficos.
+<figcaption>: fornece uma legenda para elementos dentro da tag <figure>.
+<time>: Marca um dado, hora ou intervalo de tempo significativo.
+Essas tags ajudam os desenvolvedores a criar páginas mais acessíveis, melhoram a indexação por mecanismos de busca e simplificam a estrutura do código HTML, tornando-o mais legível e semântico.
